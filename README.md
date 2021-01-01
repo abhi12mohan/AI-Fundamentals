@@ -6,21 +6,16 @@ A collection of different labs completed for my Artificial Intelligence class (6
 ## 1. Search
 Exploration of different graph search approaches and algorithms, including:
 
-* Blind Search
-  * DFS and BFS
+* Blind Search  
+◦&nbsp; DFS and BFS
     
-* Heuristic Search
-  * Hill Climbing
-  * Best-First Search
-  * Beam Search
-
 * Heuristic Search  
-   * Hill Climbing
-  * Best-First Search
-  * Beam Search
+◦&nbsp; Hill Climbing  
+◦&nbsp; Best-First Search  
+◦&nbsp; Beam Search   
 
 * Optimal Search  
-  * Branch & Bound
-  * Branch & Bound w/ A*
+◦&nbsp; Branch & Bound  
+◦&nbsp; Branch & Bound w/ A*  
 
  
