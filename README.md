@@ -84,7 +84,7 @@ Understanding how to effectively classify and interpret information w/ ID trees 
 ◦&nbsp; k-Selection and Validation  
 
 ## 7. Neural Networks
-Understanding how network models interpret input information and produces meaningful output.
+Understanding how network models interpret input information and produce meaningful output.
 
 * Forward Propagation  
 ◦&nbsp; Node Value Determination  
