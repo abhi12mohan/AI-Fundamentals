@@ -32,3 +32,21 @@ Exploration of representing a game as a decision tree and performing search oper
 ◦&nbsp; Ordinary Minimax Search  
 ◦&nbsp; Minimax Search w/ Alpha-beta Pruning  
 ◦&nbsp; Progressive Deepening  
+
+## 3. Constraint Satisfaction
+Exploration of different approaches to solve constraint satisfaction problems (CSPs).
+
+* Forward Checking  
+◦&nbsp; Neighbor Elimination  
+◦&nbsp; DFS Solver  
+
+* Propagation  
+◦&nbsp; Domain Reduction  
+◦&nbsp; Generic Propagation  
+◦&nbsp; Propagation through Singleton domains  
+◦&nbsp; Propagation through Reduced domains  
+
+
+
+
+
