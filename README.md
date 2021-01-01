@@ -6,8 +6,6 @@ A collection of different labs completed for my Artificial Intelligence class (6
 ## 1. Search:
 Exploration of different search approaches and algorithms, including:
 * Blind Search
-  * DFS/BFS
-
 * Heuristic Search
   * Hill Climbing
   * Best-First Search
